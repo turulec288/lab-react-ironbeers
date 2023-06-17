@@ -26,7 +26,7 @@ console.log(data)
           <h2>{item.name}</h2>
           <p>{item.contributed_by} </p>
           <p>{item.tagline   } </p>
-          <Link to="/BeerDetails"> Beer Details </Link> 
+          <Link to="/BeerDetails"> Beer Detgit ails </Link> 
         </div>
       ))}
     </div>
